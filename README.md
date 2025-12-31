@@ -1,6 +1,14 @@
 # Speech-to-Text-System
 A Python-based speech recognition system that converts audio input into readable text using AI and audio processing libraries.
 
+    COMPANY : CODTECH IT SOLUTIONS
+    NAME : SARAVANA KUMAR P
+    INTERN-ID : E7168CC4F2588B07
+    DOMAIN : ARTIFICIAL INTELLIGENCE
+    DURATION : 4 WEEKS
+    MENTOR : NEELA SANTHOSH
+
+    
 🧠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻
 
 This project focuses on developing a Speech-to-Text System that converts spoken audio into readable text using Artificial Intelligence. The system processes user-provided audio files and accurately transcribes the spoken content.
